@@ -10,7 +10,7 @@
 - [カムプログラムロボット工作セット](https://www.tamiya.com/japan/products/70227/index.html)
 - [AtomicMotion](https://www.switch-science.com/products/10489)
 - [AtomLite（他のAtomシリーズでも構いません）](https://www.switch-science.com/products/6262)
-- 自作3Pプリンターパーツ
+- [自作3Pプリンターパーツ(MakerWorldで公開)](https://makerworld.com/ja/models/3384887-stackchan-camrobobase-kit#profileId-3851775)
   - A. キャタピラ固定用のサイドパネル（左右）
   - B. StackChan用の台座（オプションの超音波センサーも取り付け可能）
   - C. カムロボの腕をStackChanに取り付けるアダプタ
