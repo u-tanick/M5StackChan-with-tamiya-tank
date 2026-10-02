@@ -51,5 +51,6 @@ AtomicMotionをカムロボのモーターにつないで制御してくださ�
 もしラジコンのように操作したい場合は、BluetoothやESPNowなどを使って改造してください。
 
 ## 本ページ紹介用QRコード
-<img width="450" height="450" alt="qrcode_github com" src="https://github.com/user-attachments/assets/ff41609a-e335-4069-bda6-f27940aaed0b" />
+<img width="450" height="450" alt="qrcode_github com" src="https://github.com/user-attachments/assets/454e972a-f624-4666-b4eb-d0fbf7f118e7" />
+
 
