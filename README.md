@@ -44,7 +44,7 @@
 
 AtomicMotionをカムロボのモーターにつないで制御してください。
 
-超音波センサーを使って自動的に壁をよけるサンプルプログラムを公開しています。
+超音波センサーを使って自動的に壁をよける[サンプルプログラム](https://github.com/u-tanick/stackchan-idf-for-auto-driving-vehicle-use-sonic)を公開しています。
 超音波センサーはAtomicMotionのPort.Bに接続します。
 また、AtomicMotionに取り付けたAtomLteとStackChanもGroveケーブルでつないでください。
 
