@@ -2,7 +2,7 @@
 
 タミヤのカムロボのキャタピラ部分を使って、M5StackのStackChan用のキャタピラを作る手順
 
-<img width="1154" height="1387" alt="image" src="https://github.com/user-attachments/assets/14b9a2c2-95d5-4f06-8b8f-e3614b199068" />
+<img width="577" height="694" alt="image" src="https://github.com/user-attachments/assets/39bd3ff2-5cda-4564-978a-9bb1e8bd642f" />
 
 ## 資材
 
