@@ -42,7 +42,11 @@
 
 ### StackChan部
 
+AtomicMotionをカムロボのモーターにつないで制御してください。
 
+超音波センサーを使って自動的に壁をよけるサンプルプログラムを公開しています。
+超音波センサーはAtomicMotionのPort.Bに接続します。
+また、AtomicMotionに取り付けたAtomLteとStackChanもGroveケーブルでつないでください。
 
-
+もしラジコンのように操作したい場合は、BluetoothやESPNowなどを使って改造してください。
 
